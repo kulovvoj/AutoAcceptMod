@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autoacceptmod",
+  "name": "AutoAcceptMod",
+  "description": "Auto accepts Hypixel party invites.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daladirn"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
